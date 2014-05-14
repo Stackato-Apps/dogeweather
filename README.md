@@ -5,6 +5,13 @@ Such Weather
 
 http://dogeweather.com
 
+Stackato
+===========
+
+To deploy to Stackato
+
+    stackato push -n
+
 License
 ===========
 

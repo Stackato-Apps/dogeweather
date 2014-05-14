@@ -1,0 +1,4 @@
+name: dogeweather
+
+framework:
+  type: php
