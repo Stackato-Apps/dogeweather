@@ -1,3 +1,0 @@
-name: dogeweather
-
-buildpack: https://github.com/ActiveState/heroku-buildpack-php.git
